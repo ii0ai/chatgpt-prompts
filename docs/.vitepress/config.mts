@@ -80,7 +80,7 @@ export default defineConfig({
     darkModeSwitchLabel: '深色模式',
 
     editLink: {
-        pattern: 'https:/i0Ai.com',
+        pattern: 'https://i0Ai.com',
         text: 'Ai创作'
     },
 
