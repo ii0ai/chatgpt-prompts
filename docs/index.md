@@ -13,8 +13,8 @@ hero:
       text: 立即探索
       link: /general/translation
     - theme: alt
-      text: Fresns ↗
-      link: https://fresns.cn
+      text: i0Ai ↗
+      link: https://i0Ai.com
     - theme: alt
       text: 最后更新 2023-08-27
       link: /changelog
