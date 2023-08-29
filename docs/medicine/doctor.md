@@ -1,3 +1,31 @@
+# 医学类-医
+```
+/* 代码块主题 */
+/* 顶部 */
+.md-fences {
+    color: #c5c8c6;
+    background-color: #21252b;
+    border-radius: 5px;
+    box-shadow: 0 10px 30px 0 rgb(0 0 0 / 40%);
+    padding-top: 30px;
+    font-family: monospace, 'PingFang SC', 'Microsoft YaHei';
+}
+
+.md-fences::before {
+    background: #fc625d;
+    border-radius: 50%;
+    box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+    content: ' ';
+    height: 12px;
+    left: 12px;
+    margin-top: -20px;
+    position: absolute;
+    width: 12px;
+}
+```
+
+
+
 # 医学类-
 ```public class Demo{
 
