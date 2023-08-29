@@ -117,8 +117,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://twitter.com/JevanTang' },
-      { icon: 'github', link: 'https://github.com/jevantang/chatgpt-prompts' }
+      { icon: 'twitter', link: 'https://i0ai.com' },
+      { icon: 'github', link: 'https://i0ai.com' }
     ]
   }
 })
