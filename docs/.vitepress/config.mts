@@ -11,7 +11,7 @@ export default defineConfig({
       ['meta', { property: 'og:title', content: 'ChatGPT 引导语大全' }],
       ['meta', { property: 'og:description', content: '分门别类的 ChatGPT 引导语大全' }],
       ['meta', { property: 'og:image', content: 'https://cdn.fresns.cn/wiki/chatgpt/og-image.jpg' }],
-      ['meta', { property: 'og:url', content: 'https://prompts.fresns.cn' }],
+      ['meta', { property: 'og:url', content: 'https://i0ai.com' }],
   ],
 
   themeConfig: {
@@ -21,7 +21,6 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '引导语', link: '/general/translation', activeMatch: `^/(general|life|it|cultural)/`, },
       { text: '更新日志', link: '/changelog' },
-      { text: 'Fresns', link: 'https://fresns.cn' },
     ],
 
     sidebar: [
@@ -72,7 +71,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the CC0-1.0 License.',
-      copyright: 'Copyright © 2023 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
+      copyright: 'Copyright © 2023 <a href="https://i0Ai.com/" target="_blank">Ai创作</a>',
     },
 
     outlineTitle: '本页导览',
@@ -81,8 +80,8 @@ export default defineConfig({
     darkModeSwitchLabel: '深色模式',
 
     editLink: {
-        pattern: 'https://github.com/jevantang/chatgpt-prompts/blob/main/docs/:path',
-        text: '为此页贡献新引导语'
+        pattern: 'https:/i0Ai.com',
+        text: 'Ai创作'
     },
 
     lastUpdatedText: '最后一次更新',
