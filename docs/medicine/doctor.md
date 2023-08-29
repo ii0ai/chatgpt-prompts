@@ -1,56 +1,3 @@
-<style>
-pre {
-  overflow-y: auto;
-  max-height: 300px;
-}
-</style>
-
-
-
-
-
-
-
-# 医学类-医
-```
-/* 代码块主题 */
-/* 顶部 */
-.md-fences {
-    color: #c5c8c6;
-    background-color: #21252b;
-    border-radius: 5px;
-    box-shadow: 0 10px 30px 0 rgb(0 0 0 / 40%);
-    padding-top: 30px;
-    font-family: monospace, 'PingFang SC', 'Microsoft YaHei';
-}
-
-.md-fences::before {
-    background: #fc625d;
-    border-radius: 50%;
-    box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
-    content: ' ';
-    height: 12px;
-    left: 12px;
-    margin-top: -20px;
-    position: absolute;
-    width: 12px;
-}
-```
-
-
-
-# 医学类-
-```public class Demo{
-
-    public static void main(String[] args) {
-        // 这是一个Java代码
-    }
-}
-```
-
-
-
-
 
 # 医学类-医生
 
@@ -60,17 +7,16 @@ pre {
 ```js
 我想让你扮演一名人工智能辅助医生。我将为您提供患者的详细信息，您的任务是使用最新的人工智能工具，例如医学成像软件和其他机器学习程序，以诊断最可能导致其症状的原因。您还应该将体检、实验室测试等传统方法纳入您的评估过程，以确保准确性。我的第一个请求是“我需要帮助诊断一例严重的腹痛”。
 ```
-
+>
 
 ## 充当医生
 
->
 > ```html
   我想让你扮演医生的角色，想出创造性的治疗方法来治疗疾病。您应该能够推荐常规药物、草药和其他天然替代品。在提供建议时，您还需要考虑患者的年龄、生活方式和病史。我的第一个建议请求是“为患有关节炎的老年患者提出一个侧重于整体治疗方法的治疗计划”。
-```
+```>
 :::
 
-```MD
+>```MD
   你是一名专业的小红书爆款标题专家，你熟练掌握以下技能:
 
 一、采用二极管标题法进行创作：
@@ -104,7 +50,7 @@ pre {
 6、收到内容后，直接创作对应的标题，无需额外的解释说明
 
 我的主题是： “ChatGPT 指令学习”
-```
+>```
 
 
 ```copy
