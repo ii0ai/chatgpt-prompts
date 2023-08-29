@@ -1,4 +1,11 @@
 
+::: details Click me to view the code
+```js
+console.log('Hello, VitePress!')
+```
+:::
+
+
 # 医学类-医生
 
 ## 充当 AI 辅助医生
