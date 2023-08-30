@@ -6,7 +6,7 @@ console.log('Hello, VitePress!')
 
 ::: details
 ```js
-console.log('Hello, VitePress!')
+console
 ```
 :::
 
