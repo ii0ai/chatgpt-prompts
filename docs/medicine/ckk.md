@@ -8,3 +8,10 @@
 console.log('Hello, VitePress!')
 ```
 :::
+
+
+::: 
+```md
+cotePress
+```
+:::
