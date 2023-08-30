@@ -1,7 +1,6 @@
-
-::: 
+::: view the code
 ```js
-consoHello, VitePress
+console.log('Hello, VitePress!')
 ```
 :::
 
