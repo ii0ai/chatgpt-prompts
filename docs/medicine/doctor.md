@@ -1,9 +1,14 @@
-::: view the code
+::: details view the code
 ```js
 console.log('Hello, VitePress!')
 ```
 :::
 
+::: details
+```js
+console.log('Hello, VitePress!')
+```
+:::
 
 # 医学类-医生
 
